@@ -24,7 +24,7 @@ import (
 	"github.com/scottlaird/camsync"
 )
 
-var hostname = flag.String("hostname", "10.1.0.172", "Hostname or IP address of Garmin Virb")
+var hostname = flag.String("camera", "10.1.0.172", "Hostname or IP address of Garmin Virb")
 var output_directory = flag.String("output_directory", "../DATA", "Output directory")
 var mirror = flag.Bool("mirror", true, "If true, mirror Garmin's directory structure and all files.  If false, then only copy media.")
 var poll = flag.Bool("poll", false, "If true, keep running and attempting to resync periodically.")
