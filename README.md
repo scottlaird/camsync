@@ -1,4 +1,4 @@
-
+= camsync
 
 This is designed to download photos and video from Garmin Virb action
 cameras over WiFi using the [Virb
@@ -27,3 +27,7 @@ feed the videos to VirbEdit or similar tools, then use --mirror.
 --hostname is the camera's hostname or IP address.
 
 Use --logtostderr to get additional debugging data.
+
+### Disclaimer
+
+This is not an officially supported Google product.
