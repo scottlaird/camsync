@@ -1,4 +1,4 @@
-= camsync
+# camsync
 
 This is designed to download photos and video from Garmin Virb action
 cameras over WiFi using the [Virb
