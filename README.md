@@ -26,7 +26,7 @@ feed the videos to VirbEdit or similar tools, then use `--mirror`.
 
 `--camera` is the camera's hostname or IP address.
 
-Use --logtostderr to get additional debugging data.
+Use `--logtostderr` to get additional debugging data.
 
 ### Disclaimer
 
